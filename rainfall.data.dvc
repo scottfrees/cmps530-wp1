@@ -1,0 +1,7 @@
+md5: f8810eb8c03703185ad463300c11f8a4
+outs:
+- md5: bcde813f8683753a87e21a90aded581b
+  path: rainfall.data
+  cache: true
+  metric: false
+  persist: false
