@@ -1,2 +1,4 @@
-['remote "myremote"']
-    url = https://pages.ramapo.edu/~sfrees/courses/cmps530/data/wp1
+[core]
+    remote = aws
+['remote "aws"']
+    url = s3://cmps530
