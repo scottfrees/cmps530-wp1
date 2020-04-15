@@ -10,10 +10,18 @@ cd cmps530-wp1
 ```
 
 ## Create your environment
-Python is a language that uses many third party libraries and dependencies.  It's hard keeping track of them all, so most developers use *environments* to isolate their projects from each other, and keep their dependencies in one project from interfering with another.  We use Anaconda for this - and you should create a new environment for every project you start in this course.  Alternatively, you can create one for the entire semester, and just re-activate it each time you start a project - it's your choice.  Best practice is to use separate environments however.
+Python is a language that uses many third party libraries and dependencies.  It's hard keeping track of them all, so most developers use *environments* to isolate their projects from each other, and keep their dependencies in one project from interfering with another.  We use Anaconda for this.  You should either (1) create an environment and use it for all of your projects in this course, or (2) create new environments for each project.
+
+For example, if you are creating an environment to reuse throughout the semester (easiest option), then you do the following just once:
 
 ```
-conda create --name weekly1 python=3.7
+conda create --name cmps530 python=3.7
+```
+
+Then, before using the environment, just make sure you activate it.
+
+```
+conda activate cmps530
 ```
 
 ## Install dependencies
