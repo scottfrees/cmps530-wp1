@@ -75,7 +75,7 @@ your code here...
 
 ##################################################################
 ## Step 4:  Output the average, maximum, and minimum rainfall to
-##          an output filed named rainfall.out.  Print each value
+##          an output file named rainfall.out.  Print each value
 ##          on a single line - average, maximum, then minimum.
 ##          Do not label the data - simply output the number on
 ##          each line.
