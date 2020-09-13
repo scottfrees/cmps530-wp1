@@ -63,7 +63,7 @@ Minimum Rainfall: 0.06
 <img src="https://pages.ramapo.edu/~sfrees/courses/cmps530/weeks/rainfall.png"/>
 
 ## Submitting your work
-This project is not graded, you should complete this as soon as possible however, and if you are unable to get the work done - please ask me for help.  I am also happy to review your code and provide feedback, just ask!
+Please submit only your analysis.py file to Canvas
 
 ## Takeaways
 Consider the following questions:
